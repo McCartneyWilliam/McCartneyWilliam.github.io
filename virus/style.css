@@ -1,0 +1,26 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #c8eaff;
+}
+
+canvas {
+  display: block;
+}
+
+#controls {
+  width: 100%
+}
+
+#restart {
+  width: 100%
+}
+
+.container-fluid {
+  width: 90%;
+}
